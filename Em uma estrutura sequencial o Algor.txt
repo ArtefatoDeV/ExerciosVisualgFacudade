@@ -1,0 +1,1 @@
+Em uma estrutura sequencial o Algoritmo aparecem em primeiro lugar às declarações, seguidas por comandos que deverão ser executados numa sequência linear, seguindo-se o texto em que estão escritos, de cima para baixo.

@@ -16,15 +16,13 @@ inicio
   leia(c)
   escreval("")
   
-  se a > b entao
-     escreval("a maior")
+  se (a < b) e (a < c) entao
+     escreval("a menor")
   senao
-     se b > C entao
-       escreval("b maior")
+     se (b < a) e (b < c) entao
+       escreval("b menor")
      senao
-       se c > a entao
-          escreval("c maior")
-       fimse
+          escreval("c menor")
      fimse
   fimse
   

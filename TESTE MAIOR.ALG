@@ -1,4 +1,4 @@
-algoritmo "Teste maior"
+algoritmo "Teste menor"
 
 
 var

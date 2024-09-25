@@ -2,7 +2,8 @@ algoritmo "ficha Residencial"
 
 var
 
-    nome, endereco_residencial: caracter
+    nome, endereco_residencial: caractere
+    
     numero_resindecia_lote : inteiro
     
 inicio
